@@ -1,5 +1,5 @@
 {
-  "name": "@zainulabedin.dev/cli_number_guessing",
+  "name": "zu_07_cli_number_guessing",
   "version": "1.0.0",
   "description": "this is a simple cli number guessing game",
   "main": "index.js",
